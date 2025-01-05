@@ -61,4 +61,4 @@ exports['md-notify']:notify({
 
 ## Preview
 
-![Notification](https://imgur.com/a/UXSeh6O)
+![Notification](https://files.fivemerr.com/images/56f67af2-551f-48cc-af96-7710ff6956ef.gif)
