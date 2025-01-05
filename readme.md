@@ -58,3 +58,7 @@ exports['md-notify']:notify({
     duration = 2500
 })
 ```
+
+## Preview
+
+![Notification](https://imgur.com/a/UXSeh6O)
